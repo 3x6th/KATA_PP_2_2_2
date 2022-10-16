@@ -19,7 +19,7 @@ public class CarDaoImpl implements CarDao {
         cars.add(new Car(123L, "Mazda", "Silver"));
         cars.add(new Car(565L, "BMW", "Grey"));
         cars.add(new Car(2L, "TOYOTA", "white"));
-        cars.add(new Car(2L, "LADA", "purple"));
+        cars.add(new Car(3L, "LADA", "purple"));
     }
 
 
